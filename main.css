@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #toq-sonlar {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  #toq-sonlar p {
+    font-size: 18px;
+  }
+  
